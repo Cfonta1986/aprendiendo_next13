@@ -7,6 +7,10 @@ const links = [{
 {
   label: 'About',
   route: '/about'
+},
+{
+  label: 'Posts',
+  route: '/posts'
 }
 ]
 export default function Navigation () {
